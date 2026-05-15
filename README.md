@@ -19,8 +19,8 @@
 
 ## 🔥 Currently
 
-- **🔭 Working on:** PowerCo Energy Customer Churn Analysis – Predicting and reducing customer attrition using ML models
-- **🌱 Learning:** Advanced Power BI dashboards, MLOps pipelines, and RAG (Retrieval-Augmented Generation) systems
+- **🔭 Working on:** MLOps‑powered Local LLM Assistant – Industrializing the lifecycle of a private RAG system for regulatory Q&A.
+- **🌱 Learning:** AI agent, MLOps pipelines, and RAG (Retrieval-Augmented Generation) systems
 - **💡 Philosophy:** "Data is the new oil, but AI is the refinery that extracts its true value"
 
 ---
